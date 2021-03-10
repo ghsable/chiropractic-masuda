@@ -29,4 +29,4 @@
 * [Instagram](#)
 
 ---
-<p id="copyright"><small>Copyright&copy; 2021 @ 増田整体院<small></p>
+<p id="copyright"><small>Copyright&copy; 2021 @ 増田整体院</small></p>

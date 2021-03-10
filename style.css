@@ -3,6 +3,6 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 }
 
 #copyright {
-  font-size: 5px;     /* フォントサイズ */
+  font-size: px;     /* フォントサイズ */
   text-align: right;  /* 文字位置 */
 }

@@ -1,3 +1,7 @@
+<style type="text/css">
+  h1 {color:red;}
+</style>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ghsable/chiropractic-masuda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

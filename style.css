@@ -1,8 +1,12 @@
+body {
+  background-color: #F0DDB6;  /* 背景色 */
+}
+
 h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   display: none;  /* 非表示 */
 }
 
 #copyright {
-  font-size: 10px;     /* フォントサイズ */
+  font-size: 10px;    /* フォントサイズ */
   text-align: right;  /* 文字位置 */
 }

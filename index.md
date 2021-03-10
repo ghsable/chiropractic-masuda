@@ -2,8 +2,8 @@
 <link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 <link href="./style.css" rel="stylesheet">
 
-<!-- Markdown -->
-## 増田整体院
+<!-- Markdown/HTML -->
+## <span id="title">[増田整体院](https://ghsable.github.io/chiropractic-masuda/)</span>
 
 **静岡県駿河区にある整体院です。**
 

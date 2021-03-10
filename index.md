@@ -1,6 +1,8 @@
+<!-- Style Sheet -->
 <link href="./style.css" rel="stylesheet">
 <link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 
+<!-- Markdown -->
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ghsable/chiropractic-masuda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

@@ -1,6 +1,4 @@
-<style type="text/css">
-  h1 {color:red;}
-</style>
+<link href="./style.css" rel="stylesheet"></link>
 
 ## Welcome to GitHub Pages
 

@@ -3,7 +3,7 @@
 <link href="./style.css" rel="stylesheet">
 
 <!-- Markdown/HTML -->
-## <span id="title">[増田整体院](https://ghsable.github.io/chiropractic-masuda/)</span>
+## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">増田整体院</a>
 
 **静岡県駿河区にある整体院です。**
 

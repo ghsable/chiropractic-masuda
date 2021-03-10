@@ -3,7 +3,7 @@
 <link href="./style.css" rel="stylesheet">
 
 <!-- meta -->
-<title>増田整体院</title>
+<head><title>増田整体院</title></head>
 
 <!-- Markdown -->
 ## 増田整体院

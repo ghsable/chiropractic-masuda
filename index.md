@@ -1,5 +1,5 @@
 <link href="./style.css" rel="stylesheet">
-<link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
+<link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 
 ## Welcome to GitHub Pages
 

@@ -1,42 +1,29 @@
 <!-- Style Sheet -->
-<link href="./style.css" rel="stylesheet">
 <link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
+<link href="./style.css" rel="stylesheet">
 
 <!-- Markdown -->
-## Welcome to GitHub Pages
+## 増田整体
 
-You can use the [editor on GitHub](https://github.com/ghsable/chiropractic-masuda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**静岡県駿河区にある整体院です。**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 料金表
 
-### Markdown
+| コース名 | 金額 |
+| :---: | :---: |
+| A | 3,000円 |
+| B | 2,000円 |
+| C | 3,000円 |
+| D | 4,000円 |
+| E | 5,000円 |
+| F | 6,000円 |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### アクセス
 
-```markdown
-Syntax highlighted code block
+* 住所: 〒000-0000 静岡県静岡市駿河区○○町
+* 電話番号: 090-0000-0000
+<section id="shopInfoMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.806502826068!2d138.38987321523922!3d34.96145818036826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601a49e71d64e443%3A0x799ddefe65190363!2z44CSNDIyLTgwNjMg6Z2Z5bKh55yM6Z2Z5bKh5biC6ae_5rKz5Yy66aas5riV77yU5LiB55uu77yV4oiS77yS77yR!5e0!3m2!1sja!2sjp!4v1460596239638" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe></section>
 
-# Header 1
-## Header 2
-### Header 3
+### SNS
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ghsable/chiropractic-masuda/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Instagram](#)

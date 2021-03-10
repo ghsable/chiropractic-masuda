@@ -2,9 +2,6 @@
 <link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 <link href="./style.css" rel="stylesheet">
 
-<!-- meta -->
-<head><title>増田整体院</title></head>
-
 <!-- Markdown -->
 ## 増田整体院
 

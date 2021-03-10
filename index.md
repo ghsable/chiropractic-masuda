@@ -3,7 +3,7 @@
 <link href="./style.css" rel="stylesheet">
 
 <!-- Markdown -->
-## 増田整体
+## 増田整体院
 
 **静岡県駿河区にある整体院です。**
 
@@ -27,3 +27,6 @@
 ### <u>SNS</u>
 
 * [Instagram](#)
+
+---
+<p id="copyright"><small>Copyright&copy; 2021 @ 増田整体院<small></p>

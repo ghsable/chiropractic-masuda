@@ -1,5 +1,5 @@
 # chiropractic-masuda
-[chiropractic-masuda](https://ghsable.github.io/chiropractic-masuda/)は増田整体院の公式ページです。
+[chiropractic-masuda](https://ghsable.github.io/chiropractic-masuda/)は、増田整体院の公式ページです。
 
 ## 請負関係
 * 注文者: 増田整体院

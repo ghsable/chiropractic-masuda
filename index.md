@@ -4,7 +4,7 @@
 <link href="./style.css" rel="stylesheet">
 
 <!-- Markdown/HTML -->
-## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">増田整体院</a>
+## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">ますだ鍼灸マッサージ治療院</a>
 
 **静岡県駿河区にある整体院です。**
 
@@ -30,4 +30,4 @@
 * [Instagram](https://instagram.com/masuda.harima55?igshid=6bxt88vgskkd)
 
 ---
-<p id="copyright"><small>Copyright&copy; 2021 @ 増田整体院</small></p>
+<p id="copyright"><small>Copyright&copy; 2021 @ ますだ鍼灸マッサージ治療院</small></p>

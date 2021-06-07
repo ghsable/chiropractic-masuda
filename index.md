@@ -23,7 +23,7 @@
 
 ### <u>SNS</u>
 
-* [Instagram](https://instagram.com/masuda.harima55?igshid=6bxt88vgskkd)
+* [Instagram](https://www.instagram.com/masuda.harima55/)
 * LINE  
   ![](images/line_qrcode.jpg)
 

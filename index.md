@@ -24,6 +24,8 @@
 ### <u>SNS</u>
 
 * [Instagram](https://instagram.com/masuda.harima55?igshid=6bxt88vgskkd)
+* LINE  
+  ![](images/line_qrcode.jpg)
 
 ### <u>アクセス</u>
 

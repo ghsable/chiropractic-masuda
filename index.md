@@ -27,7 +27,7 @@
 
 ### <u>SNS</u>
 
-* [Instagram](#)
+* [Instagram](https://instagram.com/masuda.harima55?igshid=6bxt88vgskkd)
 
 ---
 <p id="copyright"><small>Copyright&copy; 2021 @ 増田整体院</small></p>

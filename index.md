@@ -6,7 +6,9 @@
 <!-- Markdown/HTML -->
 ## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">ますだ鍼灸マッサージ治療院</a>
 
-**静岡県駿河区にある整体院です。**
+**ココロとカラダを整え  
+ 真の健康と美を引き出す  
+ お家のような治療院**
 
 ### <u>料金表</u>
 

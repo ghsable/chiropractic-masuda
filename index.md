@@ -12,14 +12,10 @@
 
 ### <u>料金表</u>
 
-| コース名 | 金額 |
-| :---: | :---: |
-| A | 3,000円 |
-| B | 2,000円 |
-| C | 3,000円 |
-| D | 4,000円 |
-| E | 5,000円 |
-| F | 6,000円 |
+![](images/price_1.png)
+![](images/price_2.png)
+![](images/price_3.png)
+![](images/price_4.png)
 
 ### <u>SNS</u>
 

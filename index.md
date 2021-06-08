@@ -10,6 +10,8 @@
  真の健康と美を引き出す  
  お家のような治療院**
 
+![](images/gallery_1.jpg)
+
 ## <u>料金表</u>
 
 | ![](images/price_1.png) |

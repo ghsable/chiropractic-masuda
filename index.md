@@ -22,7 +22,7 @@
 
 | [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
 |:---:|:---:|
-| `訪問マッサージ対象条件` | `マッサージご利用までの流れ` |
+| `対象条件` | `ご利用までの流れ` |
 
 ## <u>スタッフ紹介</u>
 

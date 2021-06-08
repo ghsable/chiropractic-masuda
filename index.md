@@ -18,6 +18,12 @@
 | ![](images/price_3.png) |
 | ![](images/price_4.png) |
 
+## <u>プロフィール</u>
+
+| ![](images/profile_1.jpg) |
+|:---:|
+| ![](images/profile_2.png) |
+
 ## <u>SNS</u>
 
 | [![](images/Instagram_logo.jpg)](https://www.instagram.com/masuda.harima55/) | [![](images/line_qrcode.jpg)](https://line.me/ti/p/3m2d68-icf) |

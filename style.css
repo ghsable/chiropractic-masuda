@@ -6,8 +6,19 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   display: none;  /* 非表示 */
 }
 
+img {
+  /* 左右中央揃え */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #title {
   color: #000000;  /* 文字色 */
+}
+
+#top {
+  text-align: right;  /* 文字位置 */
 }
 
 #copyright {

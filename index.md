@@ -12,10 +12,11 @@
 
 ## <u>料金表</u>
 
-![](images/price_1.png)
-![](images/price_2.png)
-![](images/price_3.png)
-![](images/price_4.png)
+| ![](images/price_1.png) |
+|:---:|
+| ![](images/price_2.png) |
+| ![](images/price_3.png) |
+| ![](images/price_4.png) |
 
 ## <u>SNS</u>
 

@@ -18,6 +18,12 @@
 | ![](images/price_3.png) |
 | ![](images/price_4.png) |
 
+## <u>訪問マッサージ</u>
+
+| [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
+|:---:|:---:|
+| `訪問マッサージ対象条件` | `マッサージご利用までの流れ` |
+
 ## <u>プロフィール</u>
 
 | ![](images/profile_1.jpg) |

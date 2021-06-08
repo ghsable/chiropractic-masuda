@@ -4,25 +4,25 @@
 <link href="./style.css" rel="stylesheet">
 
 <!-- Markdown/HTML -->
-## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">ますだ鍼灸マッサージ治療院</a>
+# <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">ますだ鍼灸マッサージ治療院</a>
 
 **ココロとカラダを整え  
  真の健康と美を引き出す  
  お家のような治療院**
 
-### <u>料金表</u>
+## <u>料金表</u>
 
 ![](images/price_1.png)
 ![](images/price_2.png)
 ![](images/price_3.png)
 ![](images/price_4.png)
 
-### <u>SNS</u>
+## <u>SNS</u>
 
 [![](images/Instagram_logo.jpg)](https://www.instagram.com/masuda.harima55/)
 [![](images/line_qrcode.jpg)](https://line.me/ti/p/3m2d68-icf)
 
-### <u>アクセス</u>
+## <u>アクセス</u>
 
 * 〒422-8041 静岡県静岡市駿河区中田3-8-4 セントラル中田１階
 * ℡ <a href="tel:09073047214">090-7304-7214</a>

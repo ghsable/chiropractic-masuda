@@ -22,7 +22,7 @@
 
 | ![](images/profile_1.jpg) |
 |:---:|
-| ![](images/profile_2.png) |
+| ![](images/profile_2.jpg) |
 
 ## <u>SNS</u>
 

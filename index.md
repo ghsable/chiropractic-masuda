@@ -20,7 +20,7 @@
 ### <u>SNS</u>
 
 [![](images/Instagram_logo.jpg)](https://www.instagram.com/masuda.harima55/)
-![](images/line_qrcode.jpg)
+[![](images/line_qrcode.jpg)](https://line.me/ti/p/3m2d68-icf)
 
 ### <u>アクセス</u>
 

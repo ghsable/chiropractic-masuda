@@ -10,7 +10,14 @@
  真の健康と美を引き出す  
  お家のような治療院**
 
-![](images/gallery_1.jpg)
+<!-- cman.jp - https://webparts.cman.jp/img/slideshow/ -->
+<div class="slide">
+  <img src="images/gallery_1.jpg">
+  <img src="images/gallery_2.jpg">
+  <img src="images/gallery_3.jpg">
+  <img src="images/gallery_4.jpg">
+  <img src="images/gallery_5.jpg">
+</div>
 
 ## <u>料金表</u>
 

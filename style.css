@@ -24,8 +24,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 .slide {
   position   : relative;
   overflow   : hidden;
-  width      : 700px;
-  height     : 500px;
+  width      : 100%;
   margin     : auto;
   background : #fff8dc;
 }

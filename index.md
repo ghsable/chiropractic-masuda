@@ -17,6 +17,9 @@
   <img src="images/gallery_3.jpg">
   <img src="images/gallery_4.jpg">
   <img src="images/gallery_5.jpg">
+  <img src="images/gallery_6.jpg">
+  <img src="images/gallery_7.jpg">
+  <img src="images/gallery_8.jpg">
 </div>
 
 ## <u>料金表</u>

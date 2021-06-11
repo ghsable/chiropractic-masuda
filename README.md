@@ -2,7 +2,7 @@
 [chiropractic-masuda](https://ghsable.github.io/chiropractic-masuda/)は、増田整体院の公式ページです。
 
 ## 請負関係
-* 注文者: 増田整体院
+* 注文者: ますだ鍼灸マッサージ治療院
 * 請負人: suna
 
 ## 依頼内容

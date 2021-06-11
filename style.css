@@ -1,6 +1,9 @@
+html {
+  scroll-behavior: smooth;    /* スクロールの挙動 */
+}
+
 body {
   background-color: #fff8dc;  /* 背景色:cornsilk */
-  scroll-behavior: smooth;    /* スクロールの挙動 */
 }
 
 h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {

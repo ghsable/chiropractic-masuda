@@ -9,11 +9,11 @@
     <label for="menu-btn-check" class="menu-btn"><span></span></label>
       <div class="menu-content">
         <ul>
-          <li><a href="#料金表">料金表</a></li>
-          <li><a href="#鍼灸マッサージの保険適用">鍼灸マッサージの保険適用</a></li>
-          <li><a href="#スタッフ紹介">スタッフ紹介</a></li>
-          <li><a href="#sns">SNS</a></li>
-          <li><a href="#アクセス">アクセス</a></li>
+          <li><a href="https://ghsable.github.io/chiropractic-masuda/#料金表">料金表</a></li>
+          <li><a href="https://ghsable.github.io/chiropractic-masuda/#鍼灸マッサージの保険適用">鍼灸マッサージの保険適用</a></li>
+          <li><a href="https://ghsable.github.io/chiropractic-masuda/#スタッフ紹介">スタッフ紹介</a></li>
+          <li><a href="https://ghsable.github.io/chiropractic-masuda/#sns">SNS</a></li>
+          <li><a href="https://ghsable.github.io/chiropractic-masuda/#アクセス">アクセス</a></li>
         </ul>
       </div>
 </div>

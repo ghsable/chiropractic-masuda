@@ -10,7 +10,7 @@
  真の健康と美を引き出す  
  お家のような治療院**
 
-<!-- cman.jp - https://webparts.cman.jp/img/slideshow/ -->
+<!-- cman.jp:CSSのみで色々なスライドショー - https://webparts.cman.jp/img/slideshow/ -->
 <div class="slide">
   <img src="images/gallery_1.jpg">
   <img src="images/gallery_2.jpg">
@@ -35,6 +35,7 @@
 <!-- | [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
 |:---:|:---:|
 | `対象条件` | `ご利用までの流れ` | -->
+<!-- cman.jp:画像をボタンにするCSS作成 - https://webparts.cman.jp/button/image/ -->
 | <a href="documents/document_1.pdf"><img src="images/document_logo.jpg" class="document_logo"></a> | <a href="documents/document_2.pdf"><img src="images/document_logo.jpg" class="document_logo"></a> |
 |:---:|:---:|
 | `対象条件` | `ご利用までの流れ` |

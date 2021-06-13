@@ -32,9 +32,10 @@
 
 ## <u>鍼灸マッサージの保険適用</u>
 
-| [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
+<!-- | [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
 |:---:|:---:|
-| `対象条件` | `ご利用までの流れ` |
+| `対象条件` | `ご利用までの流れ` | -->
+<img src="images/document_logo.jpg" class="document_logo">
 
 ## <u>スタッフ紹介</u>
 

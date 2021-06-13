@@ -1,6 +1,4 @@
 <!-- Style Sheet -->
-<!-- simonlc/Markdown-CSS - https://github.com/simonlc/Markdown-CSS -->
-<link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 <link href="./style.css" rel="stylesheet">
 
 <!-- 株式会社アーティス:CSSだけでハンバーガーメニュー - https://www.asobou.co.jp/blog/web/css-menu -->

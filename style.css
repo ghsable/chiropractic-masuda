@@ -133,43 +133,47 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 /* --- 株式会社アーティス:CSSだけでハンバーガーメニュー - https://www.asobou.co.jp/blog/web/css-menu --- */
 /* 三本線マーク */
 .menu-btn {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    display: flex;
-    height: 60px;
-    width: 60px;
-    justify-content: center;
-    align-items: center;
-    z-index: 90;
-    background-color: #3584bb;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  height: 60px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  z-index: 90;
+  background-color: #3584bb;
 }
 .menu-btn span,
 .menu-btn span:before,
 .menu-btn span:after {
-    content: '';
-    display: block;
-    height: 3px;
-    width: 25px;
-    border-radius: 3px;
-    background-color: #ffffff;
-    position: absolute;
+  content: '';
+  display: block;
+  height: 3px;
+  width: 25px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  position: absolute;
 }
 .menu-btn span:before {
-    bottom: 8px;
+  bottom: 8px;
 }
 .menu-btn span:after {
-    top: 8px;
+  top: 8px;
 }
-/* 三本線を「×」マーク */
+/* 三本線「×」マーク */
 #menu-btn-check:checked ~ .menu-btn span {
-    background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
+  background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
 }
 #menu-btn-check:checked ~ .menu-btn span::before {
-    bottom: 0;
-    transform: rotate(45deg);
+  bottom: 0;
+  transform: rotate(45deg);
 }
 #menu-btn-check:checked ~ .menu-btn span::after {
-    top: 0;
-    transform: rotate(-45deg);
+  top: 0;
+  transform: rotate(-45deg);
+}
+/* チェックボックス非表示 */
+#menu-btn-check {
+  display: none;
 }

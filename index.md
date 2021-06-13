@@ -22,7 +22,7 @@
   <img src="images/gallery_8.jpg">
 </div>
 
-## 料金表
+## <span class="h2">料金表</span>
 
 | ![](images/price_1.png) |
 |:---:|
@@ -30,25 +30,25 @@
 | ![](images/price_3.png) |
 | ![](images/price_4.png) |
 
-## 鍼灸マッサージの保険適用
+## <span class="h2">鍼灸マッサージの保険適用</span>
 
 | <a href="documents/document_1.pdf"><img src="images/document_logo.jpg" class="document_logo"></a> | <a href="documents/document_2.pdf"><img src="images/document_logo.jpg" class="document_logo"></a> |
 |:---:|:---:|
 | `対象条件` | `ご利用までの流れ` |
 
-## スタッフ紹介
+## <span class="h2">スタッフ紹介</span>
 
 | ![](images/profile_1.jpg) |
 |:---:|
 | ![](images/profile_2.jpg) |
 
-## SNS
+## <span class="h2">SNS</span>
 
 | [![](images/Instagram_logo.jpg)](https://www.instagram.com/masuda.harima55/) | [![](images/line_qrcode.jpg)](https://line.me/ti/p/3m2d68-icf) |
 |:---:|:---:|
 | [Instagram](https://www.instagram.com/masuda.harima55/) | [LINE](https://line.me/ti/p/3m2d68-icf) |
 
-## アクセス
+## <span class="h2">アクセス</span>
 
 * 〒422-8041  
   静岡県静岡市駿河区中田３丁目８−４  

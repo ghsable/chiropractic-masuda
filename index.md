@@ -12,7 +12,7 @@
           <li><a href="#料金表">料金表</a></li>
           <li><a href="#鍼灸マッサージの保険適用">鍼灸マッサージの保険適用</a></li>
           <li><a href="#スタッフ紹介">スタッフ紹介</a></li>
-          <li><a href="#SNS">SNS</a></li>
+          <li><a href="#sns">SNS</a></li>
           <li><a href="#アクセス">アクセス</a></li>
         </ul>
       </div>

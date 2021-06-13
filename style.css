@@ -131,6 +131,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 }
 
 /* --- 株式会社アーティス:CSSだけでハンバーガーメニュー - https://www.asobou.co.jp/blog/web/css-menu --- */
+/* 三本線マーク */
 .menu-btn {
     position: fixed;
     top: 10px;
@@ -159,4 +160,16 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 }
 .menu-btn span:after {
     top: 8px;
+}
+/* 三本線を「×」マーク */
+#menu-btn-check:checked ~ .menu-btn span {
+    background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
+}
+#menu-btn-check:checked ~ .menu-btn span::before {
+    bottom: 0;
+    transform: rotate(45deg);
+}
+#menu-btn-check:checked ~ .menu-btn span::after {
+    top: 0;
+    transform: rotate(-45deg);
 }

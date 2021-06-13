@@ -49,7 +49,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   vertical-align: middle;
   border-radius: 25px 0px 0px 25px;  /* 左側の角を丸く */
 }
-h2:before {
+#料金表, #鍼灸マッサージの保険適用, #スタッフ紹介, #SNS, #アクセス:before {
   content: '●';
   color: white;
   margin-right: 8px;

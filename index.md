@@ -3,6 +3,12 @@
 <link href="https://raw.githubusercontent.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet">
 <link href="./style.css" rel="stylesheet">
 
+<!-- 株式会社アーティス:CSSだけでハンバーガーメニュー - https://www.asobou.co.jp/blog/web/css-menu -->
+<div class="hamburger-menu">
+  <input type="checkbox" id="menu-btn-check">
+    <label for="menu-btn-check" class="menu-btn"><span></span></label>
+</div>
+
 <!-- Markdown/HTML -->
 ## <a href="https://ghsable.github.io/chiropractic-masuda/" id="title">ますだ鍼灸マッサージ治療院</a>
 

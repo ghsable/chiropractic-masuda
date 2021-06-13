@@ -60,14 +60,14 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   100% { opacity: 0 }
 }
 /* --- cman.jp:画像をボタンにするCSS作成 - https://webparts.cman.jp/button/image/ --- */
-.button {
+.document_logo {
   display      : inline-block;
   cursor       : pointer;  /* カーソル形状 */
   transition   : .3s;      /* なめらか変化 */
 }
-.button:hover {
+.document_logo:hover {
   animation: buttonAnime 1s ease;  /* アニメーション設定 */
 }
-@keyframes buttonAnime{
+@keyframes buttonAnime {
    0% { transform: rotateY(360deg) }
 }

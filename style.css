@@ -163,7 +163,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 }
 /* 三本線「×」マーク */
 #menu-btn-check:checked ~ .menu-btn span {
-  background-color: rgba(255, 255, 255, 0);/*メニューオープン時は真ん中の線を透明にする*/
+  background-color: rgba(255, 255, 255, 0);  /*メニューオープン時は真ん中の線を透明にする*/
 }
 #menu-btn-check:checked ~ .menu-btn span::before {
   bottom: 0;
@@ -183,9 +183,10 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   height: 100%;
   position: fixed;
   top: 0;
-  left: 0;
+  left: 100%;            /*leftの値を変更してメニューを画面外へ*/
   z-index: 80;
   background-color: #3584bb;
+  transition: all 0.5s;  /*アニメーション設定*/
 }
 .menu-content ul {
   padding: 70px 10px 0;

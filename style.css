@@ -3,20 +3,20 @@ html {
 }
 
 body {
-  background-color: #fff8dc;  /* 背景色:cornsilk */
+  background-color: #fff8dc;  /* cornsilk */
 }
 
 h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
-  display: none;  /* 非表示 */
+  display: none;
 }
 
 #title {
-  color: #000000;  /* 文字色 */
+  color: #000000;
 }
 
 #copyright {
-  font-size: 15px;    /* フォントサイズ */
-  text-align: right;  /* 文字位置 */
+  font-size: 15px;
+  text-align: right;
 }
 
 /* --- サルワカ:タグ風 - https://saruwakakun.com/html-css/reference/h-design#section2 --- */
@@ -25,7 +25,7 @@ h2 {
   padding: 0.5em;
   display: inline-block;
   line-height: 1.3;
-  background: #D4ECEA;
+  background: #D4ECEA;               /* C20Y10 */
   vertical-align: middle;
   border-radius: 25px 0px 0px 25px;  /* 左側の角を丸く */
 }

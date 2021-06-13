@@ -57,6 +57,7 @@
 * ℡ <a href="tel:09073047214">090-7304-7214</a>
 <section id="GoogleMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.8609972636787!2d138.39410381523922!3d34.960092480368644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601a49de335b187b%3A0x9c0bd30623e61afa!2z44CSNDIyLTgwNDEg6Z2Z5bKh55yM6Z2Z5bKh5biC6ae_5rKz5Yy65Lit55Sw77yT5LiB55uu77yY4oiS77yU!5e0!3m2!1sja!2sjp!4v1623077993031!5m2!1sja!2sjp" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe></section>
 
+<!-- フジブロっ！:小洒落た感じの追従するボタン - https://www.fuji-blo.com/entry/page-top#小洒落た感じの追従するボタン -->
 <a href="#" id="page-top">TOP</a>
 
 ---

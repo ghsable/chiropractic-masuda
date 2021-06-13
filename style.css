@@ -40,7 +40,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 }
 
 /* --- サルワカ:タグ風 - https://saruwakakun.com/html-css/reference/h-design#section2 --- */
-h2 {
+h2:not(#title) {
   color: #505050;
   padding: 0.5em;
   display: inline-block;

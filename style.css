@@ -10,8 +10,28 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   display: none;
 }
 
+/* --- サルワカ:葉っぱ風 - https://saruwakakun.com/html-css/reference/h-design#section2 --- */
 #title {
-  color: #000000;
+  position: relative;
+  color: #158b2b;
+  font-size: 20px;
+  padding: 10px 0;
+  text-align: center;
+  margin: 1.5em 0;
+}
+#title:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  width: 150px;
+  height: 58px;
+  border-radius: 50%;
+  border: 5px solid #a6ddb0;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
 }
 
 #copyright {

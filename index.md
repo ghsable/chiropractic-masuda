@@ -9,7 +9,7 @@
     <label for="menu-btn-check" class="menu-btn"><span></span></label>
       <div class="menu-content">
         <ul>
-          <li><label for="menu-btn-check"><a href="#料金表">料金表</a></label></li>
+          <li><a href="#料金表">料金表</a></li>
           <li><a href="#鍼灸マッサージの保険適用">鍼灸マッサージの保険適用</a></li>
           <li><a href="#スタッフ紹介">スタッフ紹介</a></li>
           <li><a href="#sns">SNS</a></li>

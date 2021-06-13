@@ -14,10 +14,6 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
   color: #000000;  /* 文字色 */
 }
 
-#top {
-  text-align: right;  /* 文字位置 */
-}
-
 #copyright {
   font-size: 15px;    /* フォントサイズ */
   text-align: right;  /* 文字位置 */

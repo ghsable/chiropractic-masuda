@@ -35,7 +35,7 @@
 <!-- | [![](images/document_logo.jpg)](documents/document_1.pdf) | [![](images/document_logo.jpg)](documents/document_2.pdf) |
 |:---:|:---:|
 | `対象条件` | `ご利用までの流れ` | -->
-<img src="images/document_logo.jpg" class="document_logo">
+<a href="documents/document_1.pdf"><img src="images/document_logo.jpg" class="document_logo"></a>
 
 ## <u>スタッフ紹介</u>
 

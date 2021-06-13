@@ -62,7 +62,7 @@ h1, .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
 /* --- cman.jp:画像をボタンにするCSS作成 - https://webparts.cman.jp/button/image/ --- */
 .document_logo {
   display      : inline-block;
-  cursor       : pointer;  /* カーソル形状 */
+  cursor       : zoom-in;  /* カーソル形状 */
   transition   : .3s;      /* なめらか変化 */
 }
 .document_logo:hover {

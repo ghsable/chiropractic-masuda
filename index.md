@@ -42,6 +42,8 @@
 | ![](images/price_2.png) |
 | ![](images/price_3.png) |
 | ![](images/price_4.png) |
+| ![](images/price_5.png) |
+| ![](images/price_6.png) |
 
 ## <span class="h2">鍼灸マッサージの保険適用</span>
 
